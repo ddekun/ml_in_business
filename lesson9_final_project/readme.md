@@ -13,8 +13,11 @@
 Стек:
 
 ML: sklearn, pandas, numpy
+
 API: flask
+
 Данные: Kaggle - https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
+
 Задача: предсказать вероятность смены работы по характеристикам сотрудника. Бинарная классификация
 
 Используемые признаки:
